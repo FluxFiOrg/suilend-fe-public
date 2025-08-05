@@ -1,7 +1,7 @@
 import {
   QuoteResponse as _7kQuote,
   getQuote as get7kQuoteOriginal,
-} from "@7kprotocol/sdk-ts/cjs";
+} from "@7kprotocol/sdk-ts";
 import {
   RouterData as CetusQuote,
   AggregatorClient as CetusSdk,
