@@ -1,7 +1,7 @@
 import {
   BluefinXTx,
   buildTx as build7kTransaction,
-} from "@7kprotocol/sdk-ts/cjs";
+} from "@7kprotocol/sdk-ts";
 import { AggregatorClient as CetusSdk } from "@cetusprotocol/aggregator-sdk";
 import {
   AggregatorQuoter as FlowXAggregatorQuoter,
